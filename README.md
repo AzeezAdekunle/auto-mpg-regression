@@ -8,7 +8,7 @@ The project emphasizes **model interpretability, robustness, and generalization*
 ---
 
 ## Dataset
-- **Source:** Auto MPG dataset
+- **Source:** UCI Machine Learning Repository
 - **Number of observations:** 392 vehicles
 - **Target variable:** Miles per gallon (mpg)
 - **Features include:**  
@@ -101,3 +101,6 @@ This choice reflects best practices in real-world regression modeling.
 ## Conclusion
 This project demonstrates a structured and reproducible approach to regression analysis on real-world tabular data. By combining feature engineering, diagnostics, regularization, and cross-validation, the final model achieves strong predictive performance while remaining interpretable and stable.
 
+---
+## Author
+Azeez Adekunle | University of Lagos
